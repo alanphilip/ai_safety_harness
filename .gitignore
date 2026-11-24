@@ -7,3 +7,4 @@ tests/
 __pycache__/
 *.__pycache__/
 *.egg-info/
+ai_safety_harness.iml
