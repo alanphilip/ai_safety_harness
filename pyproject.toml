@@ -1,0 +1,15 @@
+[project]
+name = "ai-safety-harness"
+version = "0.1.0"
+description = "AI Safety Harness project"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.6.0",
+    "loguru>=0.7.2",
+    "rich>=13.7.0",
+    "deepeval>=0.21.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
