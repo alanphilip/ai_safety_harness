@@ -2,9 +2,9 @@
 build/
 .venv
 run
-.idea
+.idea/
 __pycache__/
 *.__pycache__/
 *.egg-info/
-ai_safety_harness.iml
+*.iml
 *.pyc
